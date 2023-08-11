@@ -1,6 +1,6 @@
 ![Project logo: phylogenetic tree filled with text "Mind The 
-Gap"](../figs/logo_tree_horizontal_ERC_square.png)
-# MindTheGap
+Gap"](https://github.com/MindTheGap-ERC/.github/blob/master/figs/logo_tree_horizontal_ERC_square.png)
+
 ## Quantifying the completeness of the stratigraphic record and its role in reconstructing the tempo and mode of evolution 
 Welcome to the GitHub organization of the project. 
 We develop numerical models to study the structure of the geological record.
