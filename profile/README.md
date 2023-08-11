@@ -8,7 +8,7 @@ Our goal is to understand how time, environmental and evolutionary events are re
 
 We are funded by the European Union's European Research Council Starting Grant awarded to [Emilia Jarochowska](https://www.uu.nl/staff/EBJarochowska) (2023-2028).
 
-This project is a consortium composed by [Utrecht University](https://www.uu.nl/en/research/department-of-earth-sciences) and [the Netherlands eScience Center](https://www.esciencecenter.nl/).
+This project is a consortium composed by [Utrecht University](https://www.uu.nl/en/research/department-of-earth-sciences) and [the Netherlands eScience Center](https://www.esciencecenter.nl/). Some software used and developed in this project is a continuation of [AstroTOM](https://github.com/astro-turing).
 
 ### Links
 - [Zenodo repository of the project](https://zenodo.org/communities/mindthegap/)
