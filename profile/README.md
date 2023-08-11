@@ -1,3 +1,5 @@
+![Project logo: phylogenetic tree filled with text "Mind The 
+Gap"](../figs/logo_tree_horizontal_ERC_square.png)
 # MindTheGap
 ## Quantifying the completeness of the stratigraphic record and its role in reconstructing the tempo and mode of evolution 
 Welcome to the GitHub organization of the project. 
