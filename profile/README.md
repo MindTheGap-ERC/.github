@@ -2,9 +2,9 @@
 Gap"](https://github.com/MindTheGap-ERC/.github/blob/master/figs/logo_tree_horizontal_ERC_square.png)
 
 ## Quantifying the completeness of the stratigraphic record and its role in reconstructing the tempo and mode of evolution 
-Welcome to the GitHub organization of the project. 
+Welcome to the GitHub organization of the project.
 We develop numerical models to study the structure of the geological record.
-Our goal is to understand how time, environmental and evolutionary events are represented in imperfect, gappy records and to use this knowledge to reconstruct the history of life and palaeoclimate.
+Our goal is to understand how time, environmental and evolutionary events are represented in imperfect, gappy records and to use this knowledge to reconstruct the history of life and palaeoclimate. For more science, please visit [the project's webpage](https://mindthegap-erc.github.io/).
 
 We are funded by the European Union's European Research Council Starting Grant awarded to [Emilia Jarochowska](https://www.uu.nl/staff/EBJarochowska) (2023-2028).
 
